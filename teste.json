@@ -1,0 +1,93 @@
+{
+  "total_count": 10,
+  "incomplete_results": false,
+  "items": [
+    {
+      "channel": "Finance",
+      "event": "EBITDA",
+      "piu": "April's EBITDA raised 10% comparing to March. It was 20% more than planned",
+      "hashtags": "hash",
+      "by": "Jesus",
+      "date": "30/04/2015"
+    },
+
+    {
+      "channel": "Marketing",
+      "event": "EBITDA",
+      "piu": "April's EBITDA raised 10% comparing to March. It was 20% more than planned",
+      "hashtags": "hash",
+      "by": "Birds",
+      "date": "30/04/2015"
+    },
+    
+        {
+      "channel": "Sales",
+      "event": "EBITDA",
+      "piu": "April's EBITDA raised 10% comparing to March. It was 20% more than planned",
+      "hashtags": "hash",
+      "by": "vini",
+      "date": "30/04/2015"
+    },
+    
+    
+            {
+      "channel": "Controlling",
+      "event": "New Event",
+      "piu": "Owwww Yessss",
+      "hashtags": "Hey",
+      "by": "NÃ³is",
+      "date": "30/04/2015"
+    },
+    
+                {
+      "channel": "Controlling",
+      "event": "New Event",
+      "piu": "Owwww Yessss",
+      "hashtags": "Hey",
+      "by": "NÃ³is",
+      "date": "30/04/2015"
+    },
+                  {
+      "channel": "Controlling",
+      "event": "New Event",
+      "piu": "Owwww Yessss",
+      "hashtags": "Hey",
+      "by": "NÃ³is",
+      "date": "30/04/2015"
+    },
+                  {
+      "channel": "Controlling",
+      "event": "New Event",
+      "piu": "Owwww Yessss",
+      "hashtags": "Hey",
+      "by": "NÃ³is",
+      "date": "30/04/2015"
+    },
+                  {
+      "channel": "Controlling",
+      "event": "New Event",
+      "piu": "Owwww Yessss",
+      "hashtags": "Hey",
+      "by": "NÃ³is",
+      "date": "30/04/2015"
+    },
+                  {
+      "channel": "Controlling",
+      "event": "New Event",
+      "piu": "Owwww Yessss",
+      "hashtags": "Hey",
+      "by": "NÃ³is",
+      "date": "30/04/2015"
+    },
+                  {
+      "channel": "Controlling",
+      "event": "New Event",
+      "piu": "Owwww Yessss",
+      "hashtags": "Hey",
+      "by": "NÃ³is",
+      "date": "30/04/2015"
+    }
+    
+
+  ]
+}
